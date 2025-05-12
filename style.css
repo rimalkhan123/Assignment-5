@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+    .cv-container {
+      width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      position: relative;
+    }
+
+    .profile-pic {
+      float: left;
+      width: 120px; /* Adjust size as needed */
+      height: 120px;
+      object-fit: cover;
+      margin-right: 20px;
+      border-radius: 8px; /* Optional: rounded corners */
+    }
+
+    .cv-header {
+      overflow: hidden;
+    }
+  
+.page {
+  width: 210mm;
+  padding: 0 20mm 0 20mm;
+  margin: auto;
+  box-sizing: border-box;
+  page-break-after: always;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+header p {
+  margin: 5px 0;
+}
+
+.contact {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  border-bottom: 1px solid #000;
+  padding-bottom: 4px;
+  margin-bottom: 10px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
